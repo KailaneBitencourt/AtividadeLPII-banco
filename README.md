@@ -1,2 +1,1 @@
-# AtividadeLPII-banco
-# AtividadeLPII-banco
+#Atividade passada em classe
